@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32510.428
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "vista", "vista\vista.csproj", "{939BDBB5-A26B-4634-9871-9284EEF44C7E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "modelo", "modelo\modelo.csproj", "{10A8FFAF-1F2B-423F-9D86-1728A760FB18}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Controladora", "Controladora\Controladora.csproj", "{3556B2EF-51B2-4119-910A-2D686F7270D0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{939BDBB5-A26B-4634-9871-9284EEF44C7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{939BDBB5-A26B-4634-9871-9284EEF44C7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{939BDBB5-A26B-4634-9871-9284EEF44C7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{939BDBB5-A26B-4634-9871-9284EEF44C7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10A8FFAF-1F2B-423F-9D86-1728A760FB18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10A8FFAF-1F2B-423F-9D86-1728A760FB18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10A8FFAF-1F2B-423F-9D86-1728A760FB18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10A8FFAF-1F2B-423F-9D86-1728A760FB18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3556B2EF-51B2-4119-910A-2D686F7270D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3556B2EF-51B2-4119-910A-2D686F7270D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3556B2EF-51B2-4119-910A-2D686F7270D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3556B2EF-51B2-4119-910A-2D686F7270D0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C36B63A8-7264-4844-A635-5A5DCCD406A9}
+	EndGlobalSection
+EndGlobal
